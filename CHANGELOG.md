@@ -6,4 +6,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/MetaMask/eth-simple-keyring/
+[Unreleased]: https://github.com/gnarvaja/eth-remote-keyring/

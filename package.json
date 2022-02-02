@@ -1,18 +1,18 @@
 {
-  "name": "eth-simple-keyring",
-  "version": "4.2.0",
-  "description": "A simple standard interface for a series of Ethereum private keys.",
+  "name": "eth-remote-keyring",
+  "version": "0.1.0",
+  "description": "A simple standard interface for remote signature of messages.",
   "keywords": [
     "ethereum",
     "keyring"
   ],
-  "homepage": "https://github.com/MetaMask/eth-simple-keyring#readme",
+  "homepage": "https://github.com/gnarvaja/eth-remote-keyring#readme",
   "bugs": {
-    "url": "https://github.com/MetaMask/eth-simple-keyring/issues"
+    "url": "https://github.com/gnarvaja/eth-remote-keyring/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/eth-simple-keyring.git"
+    "url": "https://github.com/gnarvaja/eth-remote-keyring.git"
   },
   "license": "ISC",
   "author": "Dan Finlay",

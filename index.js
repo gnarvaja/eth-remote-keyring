@@ -58,6 +58,7 @@ class SimpleKeyring extends EventEmitter {
     const hexWallets = newWallets.map(({ publicKey }) =>
       ethUtil.bufferToHex(ethUtil.publicToAddress(publicKey)),
     );
+    console.log("Hello world", hexWallets);
     return hexWallets;
   }
 
